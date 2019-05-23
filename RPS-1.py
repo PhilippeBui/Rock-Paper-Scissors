@@ -13,7 +13,7 @@ cchoice= randint(1,3)
 #display user and computer choices - computer choice will be int
 print("player: ", pchoice, " vs computer: ", cchoice )
 
-# Method 1- display computer choice as string
+#display computer choice as string
 if cchoice == 1:
   print("computer chose rock")
 elif cchoice == 2:
